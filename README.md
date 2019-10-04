@@ -1,2 +1,2 @@
-# d_ai_server
-D-AI Django Server
+# D_AI_Machine_Learning_Project
+D_AI_Machine_Learning_Project
