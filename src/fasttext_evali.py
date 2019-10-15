@@ -36,3 +36,4 @@ for vocab_item in vocab_list:
 
 sm_AB_list = sorted(sm_AB_list,key=lambda acc:acc[1],reverse=True)
 print(sm_AB_list)
+model.get_analogies("시계","효과")

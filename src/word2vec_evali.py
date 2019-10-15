@@ -12,4 +12,4 @@ rc('font', family=font_name)
 model = Word2Vec.load("./word2vec/word2vec")
 print("load_model_success!!")
 
-print(model.wv.most_similar(positive=['솔로','인공지능']))
+print(model.wv.most_similar(positive=['진동','효과','창문']))
