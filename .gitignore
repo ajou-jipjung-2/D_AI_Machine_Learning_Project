@@ -1,7 +1,6 @@
 datasets/
 *.bin
 *.vec
-*.txt
 *.tsv
 *.npy
 word2vec
